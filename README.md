@@ -1,2 +1,2 @@
 # boyin96.github.io
-Repository for Bo Yin's personal academic website.
+This is a repository for Bo Yin's personal academic website.
